@@ -1,0 +1,7 @@
+data/
+**/data/
+flower_photos/
+__pycache__/
+*.py[cod]
+.vscode/
+*.docx
